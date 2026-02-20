@@ -1,16 +1,16 @@
-# Hola, soy Juan 👋🏽
+# Hola, soy Juan 👋
 
-**Backend Engineer · Elixir & Phoenix · Morelia, México 🇲🇽**
+**Backend Engineer · Elixir & Phoenix · Morelia, México**
 
 Llevo más de 4 años construyendo sistemas backend que corren en producción — desde plataformas SaaS multi-tenant hasta apps móviles con miles de usuarios activos. Actualmente trabajando en infraestructura para un **startup de AI governance**, donde la confiabilidad y la trazabilidad no son opcionales.
 
-Me apasiona Elixir. La concurrencia, los procesos ligeros, OTP... es un mundo diferente y me enganchó desde el primer `GenServer`. Si alguna vez quieres hablar de supervisión de procesos o diseño de sistemas distribuidos, avísame — me emociono fácil. 🤓
+Mi stack principal es Elixir y Phoenix. Me gusta trabajar en el backend, diseñar sistemas que escalen y escribir código que otros puedan entender después.
 
 > *La mayoría de mis contribuciones están en repositorios privados — trabajo enterprise. Pero aquí puedes ver en qué ando personalmente.*
 
 ---
 
-## 🛠️ Con qué trabajo día a día
+## Con qué trabajo día a día
 
 ```elixir
 %{
@@ -25,26 +25,26 @@ Me apasiona Elixir. La concurrencia, los procesos ligeros, OTP... es un mundo di
 
 ---
 
-## 🔥 En qué estoy ahorita
+## En qué estoy ahorita
 
-- 🤖 Construyendo infraestructura donde las decisiones de AI tienen que ser auditables y rastreables
-- ⚡ Exprimiendo Phoenix LiveView para experiencias real-time sin JavaScript innecesario
-- 🧠 Integrando AI tooling en flujos de desarrollo reales — no como atajo, sino como multiplicador
+- Construyendo infraestructura donde las decisiones de AI tienen que ser auditables y rastreables
+- Trabajando con Phoenix LiveView para experiencias real-time sin JavaScript innecesario
+- Integrando AI tooling en flujos de desarrollo reales — no como atajo, sino como multiplicador
 
 ---
 
-## 🌱 Algo más sobre mí
+## Algo más sobre mí
 
 - Estudié en el **Tecnológico de Morelia** y aprendí más resolviendo problemas reales que en el salón
 - He mentoreado a developers junior en programas de internship — me gusta enseñar lo que aprendo
-- Trabajo en equipos en inglés desde hace 3+ años, pero sigo siendo bien chilango en el fondo 🌮
+- Me desenvuelvo bien en entornos 100% en inglés, llevo 3+ años trabajando en equipos así
 - Creo que el código limpio y los sistemas bien diseñados son una forma de respeto hacia los que vendrán después
 
 ---
 
-## 📫 Hablemos
+## Hablemos
 
-Si tienes algo interesante en mente — un proyecto, una duda técnica, o simplemente quieres conectar — encuéntrame en [LinkedIn](https://www.linkedin.com/in/jose-juan-alcantara-rincon/). Sí respondo. 😄
+Si tienes algo interesante en mente — un proyecto, una duda técnica, o simplemente quieres conectar — encuéntrame en [LinkedIn](https://www.linkedin.com/in/jose-juan-alcantara-rincon/). Sí respondo.
 
 ---
 
