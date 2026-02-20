@@ -62,9 +62,5 @@ Most of my production work lives in private repositories — the systems I've sh
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josejuan1998&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6" alt="Top Languages" />
-</p>
-
-<p align="center">
   <em>Public stats reflect open-source and personal projects. The majority of my contributions are in private repositories.</em>
 </p>
