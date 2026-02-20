@@ -1,6 +1,6 @@
 # Hola, soy Juan 👋
 
-**Backend Engineer · Elixir & Phoenix · Morelia, México**
+**Software Engineer · Elixir & Phoenix · Morelia, México**
 
 Llevo más de 4 años construyendo sistemas backend que corren en producción — desde plataformas SaaS multi-tenant hasta apps móviles con miles de usuarios activos. Actualmente trabajando en infraestructura para un **startup de AI governance**, donde la confiabilidad y la trazabilidad no son opcionales.
 
@@ -44,12 +44,4 @@ Mi stack principal es Elixir y Phoenix. Me gusta trabajar en el backend, diseña
 
 ## Hablemos
 
-Si tienes algo interesante en mente — un proyecto, una duda técnica, o simplemente quieres conectar — encuéntrame en [LinkedIn](https://www.linkedin.com/in/jose-juan-alcantara-rincon/). Sí respondo.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josejuan1998&theme=tokyonight&hide_border=true&count_private=true&layout=compact&langs_count=6" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=josejuan1998&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github" />
-</p>
+Si tienes algo interesante en mente — un proyecto, una duda técnica, o simplemente quieres conectar — encuéntrame en [LinkedIn](https://www.linkedin.com/in/jose-juan-alcantara-rincon/).
