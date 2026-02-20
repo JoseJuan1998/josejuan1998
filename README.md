@@ -1,66 +1,38 @@
-# Jose Juan Alcántara Rincón
+### Hey there, I'm Jose Juan 👋
 
-**Backend Engineer · Elixir & Phoenix · Distributed Systems · AI-Assisted Development**
+I'm a backend engineer based in Morelia, Mexico 🇲🇽 — currently building infrastructure for an **AI governance startup** while staying deep in the world of **Elixir, Phoenix, and distributed systems**.
 
-Morelia, Mexico · [LinkedIn](https://www.linkedin.com/in/jose-juan-alcantara-rincon/)
+I've spent the last 4+ years shipping production systems that handle real load: real-time financial dashboards, multi-tenant SaaS platforms, inventory optimization engines, mobile apps on the App Store and Play Store. Most of that work lives in private repos — but the craft transfers.
 
----
-
-I build backend systems that scale. With 4+ years of production experience, I specialize in **Elixir/Phoenix** for high-concurrency, fault-tolerant services — from real-time dashboards with LiveView to GraphQL APIs handling enterprise workloads.
-
-Currently building at the intersection of **backend infrastructure and AI governance**, where reliability and auditability are non-negotiable.
-
-Most of my production work lives in private repositories — the systems I've shipped include chargeback resolution platforms, inventory optimization engines, microservices architectures, and multi-tenant SaaS products serving thousands of concurrent users.
+When I'm not wiring up GenServers or designing GraphQL schemas, I'm thinking about how AI tooling is reshaping the way we write software — and actively using those tools every day.
 
 ---
 
-## Technical Focus
+### 🔧 What I work with
 
-**Primary Stack**
-- **Elixir / Phoenix / Phoenix LiveView** — production systems, real-time features, OTP design patterns
-- **GraphQL** — schema design, resolver optimization, efficient data fetching
-- **Node.js** (Express, NestJS) · **.NET Core** — polyglot backend work
-
-**Frontend**
-- **React / React Native** — full product delivery including App Store & Play Store deployments
-- TypeScript · Tailwind CSS · Redux
-
-**Data & Infrastructure**
-- PostgreSQL · Redis · MySQL
-- AWS (S3, SQS, SNS) · Docker · CI/CD (GitHub Actions, Jenkins)
-- RabbitMQ · Event-driven architecture · Microservices
-
-**AI Development Tooling**
-- Daily driver of **Claude Code, Cursor, Windsurf, Codex, OpenCode**
-- Integrating AI tooling into real development workflows — not as a crutch, but as a force multiplier for complex implementations
+**Backend** — Elixir · Phoenix · Phoenix LiveView · Node.js (Express, NestJS) · .NET Core  
+**Frontend** — React · React Native · TypeScript · Tailwind CSS  
+**Data** — PostgreSQL · Redis · MySQL  
+**Infra** — AWS (S3, SQS, SNS) · Docker · GitHub Actions · Jenkins  
+**APIs** — GraphQL · REST · RabbitMQ · Event-driven architecture  
+**AI tooling** — Claude Code · Cursor · Windsurf · Codex · OpenCode
 
 ---
 
-## What I Work On
+### 🚀 What I'm into right now
 
-- **Enterprise backend systems** — high-volume transaction processing, workflow automation, real-time data pipelines
-- **AI governance infrastructure** — building systems where AI decisions need to be auditable, traceable, and controllable
-- **Developer tooling & architecture** — clean API design, scalable schemas, observable services
-
----
-
-## Background
-
-- 4+ years across enterprise and startup environments
-- Experience leading technical internship programs and mentoring developers
-- Comfortable owning full delivery: architecture → implementation → deployment → monitoring
-- Working in English-speaking, cross-functional teams for 3+ years
+- Building auditable, trustworthy AI systems at the infrastructure level
+- Pushing the limits of Phoenix LiveView for real-time UX
+- Exploring how AI-assisted development fits into serious engineering workflows — not as a shortcut, but as a genuine multiplier
 
 ---
 
-## Currently Exploring
+### 📬 Let's connect
 
-- Advanced OTP patterns and distributed Elixir
-- AI agent infrastructure and governance tooling
-- Production observability with Datadog and structured logging
+I'm always happy to talk about Elixir, backend architecture, AI tooling, or interesting problems in general. Find me on [LinkedIn](https://www.linkedin.com/in/jose-juan-alcantara-rincon/) — I actually respond. 😄
 
 ---
 
 <p align="center">
-  <em>Public stats reflect open-source and personal projects. The majority of my contributions are in private repositories.</em>
+  <sub>📌 Most of my production contributions live in private repos — this reflects personal & OSS work.</sub>
 </p>
